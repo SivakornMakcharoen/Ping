@@ -101,10 +101,10 @@ const developer = {
 
 | Channel | Info |
 |---------|------|
-| 📞 Phone | — |
-| 📧 Email | — |
-| 💬 Line | — |
-| 🍎 iMessage | — |
+| 📞 Phone | 096-740-3074 |
+| 📧 Email | pingillyclubs@gmail.com |
+| 💬 Line | ID : rsbplove |
+| 🍎 iMessage | TH +66 967403074 |
 
 </div>
 
